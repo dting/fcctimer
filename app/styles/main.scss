@@ -1,0 +1,32 @@
+html,
+body {
+  height: 100%;
+}
+
+#svg {
+  height: 400px;
+  width: 400px;
+  font-family: 'Share Tech Mono';
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+#background {
+  width: 100%;
+  height: 100%;
+  background-color: #515151;
+}
+
+#wrapper {
+  width: 90%;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+.slider-wrapper {
+  margin-top: 40px;
+}
+
+md-slider {
+  margin: 20px 15px 0 15px;
+}

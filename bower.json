@@ -1,0 +1,19 @@
+{
+  "name": "weather",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.1",
+    "jquery": "~2.1.4",
+    "lodash": "~3.10.0",
+    "angular": "~1.4.3",
+    "angular-material": "~0.10.0",
+    "angular-aria": "~1.4.3",
+    "angular-animate": "~1.4.3",
+    "snap.svg": "~0.4.1",
+    "moment": "~2.10.6"
+  },
+  "devDependencies": {
+    "chai": "~3.2.0",
+    "mocha": "~2.2.5"
+  }
+}
